@@ -1,0 +1,22 @@
+django-admin startproject nombredelprojecto => create the project
+
+python manage.py runserver => to run application
+
+python3 manage.py startapp => to create apps
+
+
+-----------------------------------------------
+
+python manage.py migrate   => apply changes to the DB 
+
+python manage.py makemigrations => create the migration base on the changes
+
+
+python manage.py shell => command shell of python using our current environmnet
+
+
+
+
+
+Main user created is username = beckeradmin, password admin123, email beckeradmin@email.com
+Common user created is username = becker, password admin123
